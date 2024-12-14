@@ -1,4 +1,4 @@
-<!-- # Gadget Heaven - 
+ # Gadget Heaven - 
 Gadget heaven is a  react-based e-commerce application built with Vite, showcasing  a variety of cutting-edge Gadgets. The application features a user-friendly interface and efficien data management.
 
 ## Live Link
@@ -25,4 +25,4 @@ Gadget heaven is a  react-based e-commerce application built with Vite, showcasi
 1. **Statistics page** provides insights into product performance and sales data.
 ## Toast notifications
 - **adding item to cart** displays a success message when an item is added to the cart.
-- **adding item to wishlist** displays a different success message when an item is added to the wishlist.  -->
+- **adding item to wishlist** displays a different success message when an item is added to the wishlist.
