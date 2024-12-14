@@ -1,0 +1,274 @@
+[
+    {
+        "product_id": "201",
+        "product_title": "MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/hFfsTJj/Mac-Book-Air-M1.webp",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "Apple's MacBook Air with M1 chip, 8GB RAM, and 256GB SSD.",
+        "specifications": [
+            "13.3-inch Retina display",
+            "Apple M1 chip",
+            "Up to 18 hours battery life",
+            "Lightweight design"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "discount": 10
+    },
+    {
+        "product_id": "202",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/dLn038c/Dell-XPS-13-Plus-BD-Price-1.webp",
+        "category": "Laptops",
+        "price": 1249.99,
+        "description": "Dell XPS 13 with Intel Core i7, 16GB RAM, and 512GB SSD.",
+        "specifications": [
+            "13.4-inch FHD+ display",
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "discount": 5
+    },
+    {
+        "product_id": "301",
+        "product_title": "iPhone 13",
+        "product_image": "https://i.ibb.co.com/YP5zRvT/3408-34138.jpg",
+        "category": "Phones",
+        "price": 799.99,
+        "description": "Apple iPhone 13 with A15 Bionic chip and dual-camera system.",
+        "specifications": [
+            "6.1-inch Super Retina XDR display",
+            "A15 Bionic chip",
+            "Dual 12MP camera system",
+            "5G capable"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "discount": 5
+    },
+    {
+        "product_id": "302",
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://i.ibb.co.com/r3hB9Bf/2101-34043.webp",
+        "category": "Phones",
+        "price": 799.99,
+        "description": "Samsung Galaxy S21 with Exynos 2100 and triple-camera setup.",
+        "specifications": [
+            "6.2-inch Dynamic AMOLED display",
+            "Exynos 2100",
+            "Triple camera system",
+            "5G capable"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "discount": 10
+    },
+    {
+        "product_id": "305",
+        "product_title": "iPhone 14",
+        "product_image": "https://i.ibb.co.com/qCZ06KN/i-Phone-14-Starlight-8954.jpg",
+        "category": "Phones",
+        "price": 999.99,
+        "description": "Apple iPhone 14 with A15 Bionic chip and improved battery life.",
+        "specifications": [
+            "6.1-inch Super Retina XDR display",
+            "A15 Bionic chip",
+            "Dual 12MP camera system",
+            "5G capable"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "discount": 5
+    },
+    {
+        "product_id": "306",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/JC0vXGm/i-Phone-14-Pro-Deep-Purple-7300.jpg",
+        "category": "Phones",
+        "price": 1099.99,
+        "description": "Apple iPhone 14 Pro with A16 Bionic chip and ProMotion display.",
+        "specifications": [
+            "6.1-inch Super Retina XDR display with ProMotion",
+            "A16 Bionic chip",
+            "Triple 12MP camera system",
+            "5G capable"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "discount": 5
+    },
+    {
+        "product_id": "401",
+        "product_title": "Apple AirPods Pro",
+        "product_image": "https://i.ibb.co.com/H2FhC5C/images.jpg",
+        "category": "Accessories",
+        "price": 249.99,
+        "description": "Apple AirPods Pro with active noise cancellation.",
+        "specifications": [
+            "Active noise cancellation",
+            "Transparency mode",
+            "Customizable fit",
+            "Wireless charging case"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "discount": 5
+    },
+    {
+        "product_id": "402",
+        "product_title": "Logitech MX Master 3",
+        "product_image": "https://i.ibb.co.com/S7VvxTH/4127-72278.jpg",
+        "category": "Accessories",
+        "price": 99.99,
+        "description": "Logitech MX Master 3 wireless mouse with ergonomic design.",
+        "specifications": [
+            "Ergonomic design",
+            "MagSpeed scroll wheel",
+            "Customizable buttons",
+            "Bluetooth and USB receiver"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "discount": 10
+    },
+    {
+        "product_id": "501",
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://i.ibb.co.com/6N2TfGK/apple-watch-series-7-45mm-gps-smartwatch.jpg",
+        "category": "Smartwatches",
+        "price": 399.99,
+        "description": "Apple Watch Series 7 with larger display and fitness tracking.",
+        "specifications": [
+            "Always-on Retina display",
+            "Fitness and health tracking",
+            "Water resistant",
+            "GPS and cellular options"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "discount": 5
+    },
+    {
+        "product_id": "502",
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://i.ibb.co.com/hF28wQS/images.jpg",
+        "category": "Smartwatches",
+        "price": 249.99,
+        "description": "Samsung Galaxy Watch 4 with health monitoring features.",
+        "specifications": [
+            "Fitness tracking",
+            "Body composition analysis",
+            "Wear OS",
+            "Customizable watch faces"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "discount": 10
+    },
+    {
+      "product_id": "203",
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/GRNh051/images.jpg",
+      "category": "Laptops",
+      "price": 1399.99,
+      "description": "Lenovo ThinkPad X1 Carbon with Intel Core i7, 16GB RAM, and 1TB SSD.",
+      "specifications": [
+          "14-inch UHD display",
+          "Intel Core i7 11th Gen",
+          "16GB LPDDR4X RAM",
+          "1TB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "discount": 15
+  },
+  {
+      "product_id": "303",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://i.ibb.co.com/wdhHWcc/Google-Pixel-6-Price-in-bangladesh.jpg",
+      "category": "Phones",
+      "price": 699.99,
+      "description": "Google Pixel 6 with Google Tensor chip and advanced camera features.",
+      "specifications": [
+          "6.4-inch OLED display",
+          "Google Tensor chip",
+          "50MP wide + 12MP ultrawide cameras",
+          "Android 12"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "discount": 8
+  },
+  {
+      "product_id": "403",
+      "product_title": "Razer Basilisk V3",
+      "product_image": "https://i.ibb.co.com/mHvtchv/basilisk-v3-02-500x500-1.jpg",
+      "category": "Accessories",
+      "price": 69.99,
+      "description": "Razer Basilisk V3 wired gaming mouse with customizable RGB lighting.",
+      "specifications": [
+          "11 programmable buttons",
+          "Customizable Chroma RGB",
+          "26,000 DPI sensor",
+          "Ergonomic design"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "discount": 12
+  },
+  {
+      "product_id": "503",
+      "product_title": "Garmin Venu 2 Plus",
+      "product_image": "https://i.ibb.co.com/t8D8VkM/venu-2-plus-black-cf-lg.jpg",
+      "category": "Smartwatches",
+      "price": 449.99,
+      "description": "Garmin Venu 2 Plus smartwatch with advanced health monitoring features.",
+      "specifications": [
+          "AMOLED display",
+          "Voice assistant support",
+          "Fitness tracking",
+          "Up to 9 days battery life"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "discount": 5
+  },
+  {
+      "product_id": "404",
+      "product_title": "SteelSeries Arctis 7P+ Wireless",
+      "product_image": "https://i.ibb.co.com/7vCDLks/steelseries-arctis-7p-gaming-headset-3-500x500.jpg",
+      "category": "Accessories",
+      "price": 169.99,
+      "description": "SteelSeries Arctis 7P+ wireless headset for PlayStation and PC.",
+      "specifications": [
+          "Lossless 2.4 GHz wireless audio",
+          "20+ hours battery life",
+          "ClearCast noise-canceling mic",
+          "USB-C charging"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "discount": 10
+  },
+  {
+      "product_id": "504",
+      "product_title": "Fitbit Sense",
+      "product_image": "https://i.ibb.co.com/mNjL7RD/fitbit-sense-advanced-smartwatch-with-tools-1.jpg",
+      "category": "Smartwatches",
+      "price": 329.99,
+      "description": "Fitbit Sense with EDA sensor and advanced stress management features.",
+      "specifications": [
+          "EDA and ECG sensors",
+          "Skin temperature monitoring",
+          "Fitness and health tracking",
+          "6+ days battery life"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "discount": 7
+  }
+]
